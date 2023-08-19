@@ -1,0 +1,14 @@
+package com.masai.file;
+
+import java.io.File;
+
+public class Demo {
+    
+	public static void main(String[] args) {
+		 
+		
+		File f = new File("d://abc.txt");
+		
+		System.out.println(f);
+	}
+}

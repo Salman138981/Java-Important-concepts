@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;InnerClass&apos; to &apos;com.masai.InnerClass&apos;&#x0D;&#x0A;- Original project: &apos;Stack&amp;Heap&apos;&#x0D;&#x0A;- Original element: &apos;Stack&amp;Heap/src/InnerClass&apos;&#x0D;&#x0A;- Renamed element: &apos;Stack&amp;Heap/src/com.masai.InnerClass&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;InnerClass&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;InnerClass" name="com.masai.InnerClass" qualified="false" references="true" stamp="1689874170090" textual="false" version="1.0"/>
+</session>

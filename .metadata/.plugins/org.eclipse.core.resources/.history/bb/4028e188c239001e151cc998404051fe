@@ -1,0 +1,13 @@
+package com.masai.file;
+
+import java.io.File;
+
+public class Methods {
+   
+	public static void main(String[] args) {
+		  
+		  File f = new File("E://abc.txt");
+		  
+		  System.out.println(f.isFile());
+	}
+}
