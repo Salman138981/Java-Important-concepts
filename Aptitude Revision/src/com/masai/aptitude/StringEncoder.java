@@ -23,11 +23,12 @@ public class StringEncoder {
 		String third = str.substring(6);
 		
 	    int first_char =Character.getNumericValue(first.charAt(0));
+	    char second_char = first.charAt(1);
 	    int third_char = Character.getNumericValue(first.charAt(2));
 	    
 	    StringBuilder reverString = new StringBuilder(third).reverse();
 	    
-	    String encodeString = first_char + first+ third_char + second+ reverString;
+	    String encodeString = first_char+"" +second_char+""+ third_char + second+ reverString;
 	    return encodeString;
 	}
 }
